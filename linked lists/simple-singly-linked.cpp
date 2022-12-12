@@ -43,4 +43,4 @@ int main() {
 }
 
 // The time complexity of the print function is O(n) because as the input size grows (with the list),
-// the longer the algorithm takes. Worst case is when the input size increases.
+// the longer the algorithm takes. Worst case is traversing all the way to the last node
